@@ -12,10 +12,7 @@ Welcome to **Blackjack RL**, a project that dives into the fascinating world of 
 - [Getting Technical: How It Works](#getting-technical-how-it-works)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Project](#running-the-project)
-- [What We Learned: Results and Insights](#what-we-learned-results-and-insights)
-- [What’s Next?](#whats-next)
-- [License](#license)
-
+- [Results and Insights](#results-and-insights)
 ---
 
 ## What’s This All About?
@@ -153,7 +150,7 @@ Check out `experiment.py` for the main logic or `train.py` for DQN training deta
 
 ---
 
-## What We Learned: Results and Insights
+## Results and Insights
 
 After running experiments, here’s the scoop:
 - **Win Rates**: We measure how often each agent wins across setups. Charts show who’s ahead.
